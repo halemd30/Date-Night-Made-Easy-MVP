@@ -1,0 +1,52 @@
+.hidden {
+    display: none;
+}
+
+
+html {
+  background-color: rgba(246, 246, 246, 0.973);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  color: rgb(221, 148, 13);
+}
+
+.container {
+  margin: 15px;
+  padding: 10px;
+}
+
+form {
+width: 40%;
+border: solid 1px black;
+padding: 15px;
+}
+
+input {
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 70%;
+}
+
+
+#submitButton {
+  margin-top: 20px;
+  width: 75px;
+  border: 1px solid black;
+}
+
+.error-message {
+  color: red;
+}
+
+li {
+  list-style: none;
+}
+
+#featuredImg {
+  width: 40%;
+  display: block;
+  margin-top: 10px;
+}
